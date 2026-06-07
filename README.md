@@ -28,8 +28,7 @@ A full-stack web application built to allow users to sign up, explore registered
 
   Bash
 
-  npm install
-  
+  npm install    
   node server.js
 
 ### 3. Frontend Client Configuration
@@ -38,8 +37,7 @@ A full-stack web application built to allow users to sign up, explore registered
 
   Bash
 
-  npm install
-
+  npm install    
   npm run dev
 
 ###  Default Testing Accounts
